@@ -1,0 +1,41 @@
+.front-3 {
+    display: flex;
+    background-color: var(--c1);
+    color: var(--c3);
+    font-family: "open sans", sans-serif;
+    flex-direction: column;
+    align-items: stretch;
+    padding : 0 300px ;
+    padding-bottom: 80px;
+    
+}
+
+.f3-1 {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    padding: 40px 0;
+}
+
+.f3-2 {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.ico {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.round {
+    display: flex;
+    border : 5px solid var(--c4);
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}

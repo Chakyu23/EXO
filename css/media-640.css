@@ -1,0 +1,70 @@
+@media screen and (max-width: 640px) {
+    .top-bar {
+        padding: 40px 20px;
+        flex-direction: column;
+    }
+
+    .top-bar-left, .top-bar-left:visited {
+       padding-bottom: 20px;
+    }
+
+    .contact-bar{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .vpn-img {
+        display: none;
+    }
+    .side-4 {
+        font-size: 15px;
+        padding: 8px 24px;
+    }
+
+    .side-3 {
+        font-size: 15px;
+    }
+
+    .side-5 {
+        font-size: 10px;
+    }
+
+    .front-1 {
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+    .mid-bar {
+        padding: 20px 20px;
+    }
+    .front-2 {
+        padding: 40px;
+    }
+    .feature-2-1 {
+        flex-direction: column;
+    }
+    .feature-2 {
+        flex-direction: row;
+        align-items: flex-start;
+    }
+    .fea-s {
+        display: flex;
+        flex-direction: column;
+        justify-content: stretch;
+    }
+    .f3-1 {
+        font-size: 150%;
+    }
+    .f3-2 {
+        flex-direction: column;
+    }
+    .front-3 {
+        padding-bottom: 30px;
+    }
+    .f5-1 {
+        padding: 120px 10px;
+    }
+    .f5-t {
+        max-width: 80%;
+    }
+    
+}

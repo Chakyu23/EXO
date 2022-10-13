@@ -1,0 +1,43 @@
+@media screen and (max-width: 1240px) {
+    .vpn-img {
+        height: 80%;
+        width: 80%;
+    }
+    .feature-2 {
+        padding: 25px 80px;
+    }
+    .front-3 {
+        padding: 0 150px;
+    }
+    h2 {
+        text-align: center;
+    }
+    .f4-2 {
+        align-items: center;
+        justify-content: center;
+
+    }
+    .f4-lien {
+        display: inline-block;
+    }
+    .f4-3 {
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+    .f4-4 {
+        display: none;
+    }
+    .f4-r {
+        justify-content: space-between;
+    }
+    .f4-tb {
+        display: inline-block;
+    }
+    .f4-te {
+        align-items: center;
+    }
+    .f5-t {
+        max-width: 200px;
+    }
+}

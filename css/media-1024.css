@@ -1,0 +1,41 @@
+@media screen and (max-width: 1024px) {
+    .contact-bar{
+        padding: 20px 60px;
+    }
+
+    .front-1 {
+        flex-direction: column;
+    }
+    .mid-bar-1 {
+        background-color: #232323;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    .mid-bar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .feature {
+        padding: 10px;
+    }
+    .feature-2 {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        font-weight: 600;
+        font-size: 20px;
+        padding: 10px;
+    }
+    .feature-2-1 {
+        justify-content: space-between;
+        align-items: center;
+    }
+    .fea-img {
+        width: 80%;
+        height: 80%;
+    }
+    .fico { 
+        display: inline-block;
+    }
+}

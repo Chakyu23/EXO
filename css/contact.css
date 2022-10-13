@@ -1,0 +1,12 @@
+.contact-bar {
+    display :flex ;
+    background-color: var(--c1);
+    justify-content: space-between;
+    margin: 0px;
+    font-family : "open sans", sans-serif;
+    padding: 20px 160px;
+}
+
+.link {
+    color: white;
+}

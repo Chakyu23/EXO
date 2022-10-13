@@ -1,0 +1,16 @@
+.end {
+    background-color: #111111;
+}
+
+.end-1 {
+    display: block;
+    color: var(--c3);
+    text-align: center;
+    margin: 0 auto;
+    padding: 50px 20px;
+    font-family: "open sans", sans-serif;
+}
+
+a {
+    text-decoration: none;
+}

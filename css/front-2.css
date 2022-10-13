@@ -1,0 +1,21 @@
+.front-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--c8);
+    padding: 80px;
+    font-family: "open sans", sans-serif;
+}
+
+h1 {
+    
+    color: var(--c4);
+    text-align: center;
+}
+
+.f2-2 {
+    color: var(--c3);
+    text-align: center;
+    max-width: 620px;
+    margin: 0 auto;
+}

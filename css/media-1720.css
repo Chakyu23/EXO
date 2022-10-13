@@ -1,0 +1,19 @@
+@media screen and (max-width: 1720px) {
+    .feature-2 {
+        padding: 25px 150px;
+    }
+    .f4-4 {
+        width: 100%;
+        min-height: 100%;
+    }
+    h3 {
+        font-size: 15px
+    }
+    .f5-1 {
+        padding: 80px 50px;
+        font-size: 10px;
+    }
+    .f5-t {
+        max-width: 250px;
+    }
+}

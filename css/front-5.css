@@ -1,0 +1,33 @@
+.front-5 {
+    display: flex;
+    margin-top: -1px;
+    background-color: var(--c1);
+    flex-direction: column;
+    color: var(--c3);
+    font-family: "open sans", sans-serif;
+}
+
+.f5-1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 120px 10%;
+}
+
+.f5-t {
+    max-width: 300px;
+    font-size: 14px;
+}
+
+.f5-2 {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+
+}
+
+.contact {
+    display: inline-block;
+    margin: 0 40px;
+    color: var(--c3);
+    padding-bottom: 15px;
+}
